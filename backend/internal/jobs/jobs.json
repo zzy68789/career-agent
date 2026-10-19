@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cs-go-backend",
+    "title": "后端开发工程师",
+    "org": "演示岗位 · 互联网校招",
+    "city": "郑州",
+    "minDegree": "bachelor",
+    "families": ["cs"],
+    "jd": "负责业务接口开发、数据存储和线上问题排查，参与校招项目组的服务端建设。",
+    "requirements": ["熟悉 Go 或 Java", "掌握 MySQL 与 Redis", "有后端实习或课程项目", "会使用 Git 与 Linux"]
+  },
+  {
+    "id": "cs-java-backend",
+    "title": "Java 开发工程师",
+    "org": "演示岗位 · 企业信息化校招",
+    "city": "郑州",
+    "minDegree": "bachelor",
+    "families": ["cs"],
+    "jd": "参与企业信息系统的服务端开发，完成接口、数据库设计和日常迭代。",
+    "requirements": ["熟悉 Java 与 Spring Boot", "掌握 MySQL", "了解消息队列", "有完整项目经历"]
+  },
+  {
+    "id": "cs-frontend",
+    "title": "前端开发工程师",
+    "org": "演示岗位 · 互联网校招",
+    "city": "郑州",
+    "minDegree": "bachelor",
+    "families": ["cs"],
+    "jd": "负责招聘与就业相关页面开发，完成界面、交互和接口联调。",
+    "requirements": ["熟悉 React 与 TypeScript", "掌握 HTML 与 CSS", "有页面项目或实习经历", "了解前后端接口联调"]
+  },
+  {
+    "id": "cs-qa",
+    "title": "测试开发工程师",
+    "org": "演示岗位 · 软件校招",
+    "city": "郑州",
+    "minDegree": "bachelor",
+    "families": ["cs"],
+    "jd": "设计测试用例并编写自动化脚本，跟进缺陷直到关闭。",
+    "requirements": ["了解软件测试流程", "会用 Python 或 Go 编写脚本", "熟悉 Linux", "有测试或开发项目经历"]
+  },
+  {
+    "id": "cs-data",
+    "title": "数据分析师",
+    "org": "演示岗位 · 互联网校招",
+    "city": "郑州",
+    "minDegree": "bachelor",
+    "families": ["cs"],
+    "jd": "使用 SQL 和 Python 整理业务数据，输出可读的分析结论。",
+    "requirements": ["熟悉 SQL", "会用 Python 做数据处理", "了解统计分析", "能撰写分析结论"]
+  },
+  {
+    "id": "cs-cloud",
+    "title": "云计算开发工程师",
+    "org": "演示岗位 · 互联网校招",
+    "city": "杭州",
+    "minDegree": "bachelor",
+    "families": ["cs"],
+    "jd": "参与容器化部署和云上服务开发，维护开发与测试环境。",
+    "requirements": ["熟悉 Linux 与 Shell", "了解 Docker 或 Kubernetes", "掌握 Go、Java 或 Python", "有服务部署经验"]
+  },
+  {
+    "id": "cs-algo-nlp",
+    "title": "自然语言处理算法工程师",
+    "org": "演示岗位 · 人工智能校招",
+    "city": "北京",
+    "minDegree": "master",
+    "families": ["cs"],
+    "jd": "负责文本匹配、分类等自然语言处理模块的实验和迭代。",
+    "requirements": ["硕士及以上学历", "熟悉 Python 与 PyTorch", "有自然语言处理或文本匹配项目", "有论文成果"]
+  },
+  {
+    "id": "cs-algo-cv",
+    "title": "机器视觉算法工程师",
+    "org": "演示岗位 · 智能制造校招",
+    "city": "苏州",
+    "minDegree": "master",
+    "families": ["cs"],
+    "jd": "负责视觉检测模型的训练、评估和部署配合。",
+    "requirements": ["硕士及以上学历", "熟悉 Python 与深度学习", "有机器视觉或检测项目", "了解模型部署"]
+  },
+  {
+    "id": "ee-embedded",
+    "title": "嵌入式软件工程师",
+    "org": "演示岗位 · 装备制造校招",
+    "city": "郑州",
+    "minDegree": "bachelor",
+    "families": ["ee"],
+    "jd": "负责设备控制程序开发、联调和现场问题定位。",
+    "requirements": ["熟悉 C 或 C++", "了解单片机或 STM32", "有嵌入式项目或实验", "会使用基本调试方法"]
+  },
+  {
+    "id": "ee-design",
+    "title": "电气设计工程师",
+    "org": "演示岗位 · 装备制造校招",
+    "city": "郑州",
+    "minDegree": "bachelor",
+    "families": ["ee"],
+    "jd": "参与供配电和控制回路设计，完成电气图纸和设备选型说明。",
+    "requirements": ["会使用 AutoCAD 绘制电气图纸", "了解 PLC 或供配电", "有电气课程设计", "能说明图纸内容"]
+  },
+  {
+    "id": "ee-power",
+    "title": "电力电子研发工程师",
+    "org": "演示岗位 · 新能源校招",
+    "city": "郑州",
+    "minDegree": "master",
+    "families": ["ee"],
+    "jd": "参与变换器和电机驱动相关的仿真、实验和方案迭代。",
+    "requirements": ["硕士及以上学历", "熟悉电力电子与电机控制", "会使用 MATLAB 或 Simulink", "有变换器或电机项目"]
+  },
+  {
+    "id": "ee-embedded-algo",
+    "title": "嵌入式算法工程师",
+    "org": "演示岗位 · 装备制造校招",
+    "city": "西安",
+    "minDegree": "master",
+    "families": ["ee"],
+    "jd": "在嵌入式平台上实现控制或传感算法，并配合软件完成联调。",
+    "requirements": ["硕士及以上学历", "熟悉 C++ 与嵌入式", "有控制算法或电机驱动项目", "了解传感器"]
+  }
+]
